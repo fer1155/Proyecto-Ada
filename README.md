@@ -1,2 +1,1 @@
-Proyecto ADA
-Fernando Cardona - Oscar Mario Muñoz - Marvin Brayan Nuñez
+Proyecto ADA - Fernando Cardona - Oscar Mario Muñoz - Marvin Brayan Nuñez
