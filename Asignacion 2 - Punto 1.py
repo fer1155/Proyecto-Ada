@@ -6,7 +6,7 @@ def comprobarValorIndice(vector, indice):
     else:
         return comprobarValorIndice(vector, indice+1)
 
-vector = [6, 5, 4, 3]
+vector = [6, 5, 4, 1]
 indice = 0
 
 print(comprobarValorIndice(vector, indice))
